@@ -1,0 +1,16 @@
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.exe
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.deps.json
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.runtimeconfig.json
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.runtimeconfig.dev.json
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.dll
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ref\ChainOfResponsability.dll
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\bin\Debug\net5.0\ChainOfResponsability.pdb
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.dll
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ref\ChainOfResponsability.dll
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.pdb
+C:\Users\INTEL\source\repos\ChainOfResponsability\ChainOfResponsability\obj\Debug\net5.0\ChainOfResponsability.genruntimeconfig.cache
