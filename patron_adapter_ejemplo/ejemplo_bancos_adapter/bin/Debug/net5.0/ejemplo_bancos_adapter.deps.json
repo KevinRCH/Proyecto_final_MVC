@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejemplo_bancos_adapter/1.0.0": {
+        "runtime": {
+          "ejemplo_bancos_adapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejemplo_bancos_adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

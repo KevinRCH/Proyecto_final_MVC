@@ -1,0 +1,16 @@
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.exe
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.deps.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.runtimeconfig.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.runtimeconfig.dev.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ref\ejemplo_bancos_adapter.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\bin\Debug\net5.0\ejemplo_bancos_adapter.pdb
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ref\ejemplo_bancos_adapter.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.pdb
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\ejemplo_bancos_adapter\obj\Debug\net5.0\ejemplo_bancos_adapter.genruntimeconfig.cache

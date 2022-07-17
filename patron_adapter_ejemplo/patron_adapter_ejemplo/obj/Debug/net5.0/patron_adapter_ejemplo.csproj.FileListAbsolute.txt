@@ -1,0 +1,16 @@
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.exe
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.deps.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.runtimeconfig.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.runtimeconfig.dev.json
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\ref\patron_adapter_ejemplo.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\bin\Debug\net5.0\patron_adapter_ejemplo.pdb
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.AssemblyInfoInputs.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.AssemblyInfo.cs
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\ref\patron_adapter_ejemplo.dll
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.pdb
+C:\Users\INTEL\source\repos\patron_adapter_ejemplo\patron_adapter_ejemplo\obj\Debug\net5.0\patron_adapter_ejemplo.genruntimeconfig.cache
